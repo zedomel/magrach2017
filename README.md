@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/zedome/magrach2017.svg)](https://travis-ci.com/zedomel/magrach2017) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=zedomel:magrach2017)](http://globalbioticinteractions.org/?accordingTo=zedomel:magrach2017)
+[![Build Status](https://travis-ci.com/zedome/magrach2017.svg)](https://travis-ci.com/zedomel/magrach2017) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:zedomel/magrach2017)](https://globalbioticinteractions.org/?accordingTo=globi:zedomel/magrach2017)
 
 Configuration to help Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) index: 
 
